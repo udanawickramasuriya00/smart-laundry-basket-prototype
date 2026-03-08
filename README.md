@@ -18,4 +18,4 @@ This project is a prototype concept for a smart laundry basket designed to impro
 Prototype stage – developed within a short development period to demonstrate the concept of a smart laundry management system.
 
 ## Demo Video
-A demonstration video of the prototype is included in this repository.
+[Watch the project demo](./Smart%20Lundry%20Basket%20Video.mp4)
